@@ -4,6 +4,8 @@
 # Result
 - Public 1st
 - Private 3rd
+- Competition [link](https://dacon.io/competitions/official/235736/overview/description)
+
 
 # Description
 
@@ -31,6 +33,3 @@ path
 - Model by Time
 - Lightgbm, xgboost
 ![image](https://user-images.githubusercontent.com/40379485/125219282-845a9980-e2ff-11eb-8980-b5303a1bf217.png)
-
-# Competition Reference
-https://dacon.io/competitions/official/235736/overview/description
