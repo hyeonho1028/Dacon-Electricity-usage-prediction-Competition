@@ -1,10 +1,10 @@
 # Dacon-Electricity-usage-prediction-Competition
 전력사용량 예측 AI 경진대회
+- Competition [link](https://dacon.io/competitions/official/235736/overview/description)
 
 # Result
 - Public 1st
 - Private 3rd
-- Competition [link](https://dacon.io/competitions/official/235736/overview/description)
 
 
 # Description
