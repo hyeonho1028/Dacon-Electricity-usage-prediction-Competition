@@ -17,8 +17,20 @@ path
 └── code (*.ipynb)
 ```
 
+# Data Preprocessing / Feature Engineering
+- Remove Outlier
+- Target Transformation
+- Feature Selection
+- Target Min-Max Scaling(by Building)
+- Target Encoding
+![image](https://user-images.githubusercontent.com/40379485/125219343-976d6980-e2ff-11eb-8eb1-5dd6e771023e.png)
 
 
+# Model
+- Model by Building
+- Model by Time
+- Lightgbm, xgboost
+![image](https://user-images.githubusercontent.com/40379485/125219282-845a9980-e2ff-11eb-8980-b5303a1bf217.png)
 
 # Competition Reference
 https://dacon.io/competitions/official/235736/overview/description
