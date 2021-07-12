@@ -8,14 +8,18 @@
 # Description
 
 path
-​```bash
+```
+```bash
 .
 ├── data
 │   ├── train.csv
 │   ├── test.csv
 │   └── sample_submission.csv
 └── code (*.ipynb)
-​```
+```
+```
+
+
 
 # Competition Reference
 https://dacon.io/competitions/official/235736/overview/description
