@@ -8,7 +8,6 @@
 # Description
 
 path
-```
 ```bash
 .
 ├── data
@@ -17,7 +16,7 @@ path
 │   └── sample_submission.csv
 └── code (*.ipynb)
 ```
-```
+
 
 
 
